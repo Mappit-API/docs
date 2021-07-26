@@ -8,7 +8,7 @@ from datetime import datetime
 # General information about the project.
 project = "Mappit API Docs"
 copyright = f"{datetime.now().year}, Mappit API"
-author = "Mat Munn"
+author = "Mappit Team"
 
 extensions = [
     # Use this for generating API docs
