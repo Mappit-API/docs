@@ -153,7 +153,7 @@ If you already know the gnaf ID of a property, you can use it to retrieve the de
 Reverse geocode
 ~~~~~~~~~~~~~~~
 
-Given a latitude and longitude, returns either the nearest addresses, sorted by distance.
+Given a latitude and longitude, returns the nearest addresses, sorted by distance.
 
 .. graphiql::
   :query:
