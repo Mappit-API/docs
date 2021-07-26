@@ -1,0 +1,8 @@
+[build]
+publish = "build/html"
+command = """
+pip3 install -q poetry &&
+poetry config virtualenvs.in-project true &&
+poetry install -v &&
+sphinx-build -EWT --keep-going . build/html
+"""
