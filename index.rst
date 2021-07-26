@@ -124,7 +124,7 @@ The ``state`` parameter supports the following values: ``TAS, VIC, NSW, ACT, QLD
 Retrieve property
 ~~~~~~~~~~~~~~~~~
 
-If you already know the gnaf ID of a property, you can use it to retrieve the details of that property.
+If you already know the G-NAF ID of a property, you can use it to retrieve the details of that property.
 
 .. graphiql::
   :query:
